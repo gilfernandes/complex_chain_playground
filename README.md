@@ -1,6 +1,6 @@
 # LangChain Ccomplex Router Chain Playground
 
-This simple project shows how you can create a complex router chain. This chain shows how you can combine four types of chains:
+This simple project shows how you can create a complex router chain as a simple command line application. This chain shows how you can combine four types of chains:
 
 - LLMChain
 - RouterChain
