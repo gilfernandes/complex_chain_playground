@@ -33,3 +33,7 @@ conda install -c https://conda.anaconda.org/conda-forge prompt_toolkit
 ```bash
 python ./lang_chain_router_chain.py
 ```
+
+## Workflow Diagramme
+
+![BPMN Diagramme](diagrammes/ComplexRouterChain.png "BPMN Diagramme")
